@@ -96,3 +96,5 @@ src/
 - This is not a generic tracker. It focuses on behavioral improvement in studying.
 - It combines planning, execution tracking, and recommendation signals.
 - It demonstrates complete React fundamentals and intermediate/advanced hooks in a clean architecture.
+
+There is a new bug in this project , goona fix it soon.
